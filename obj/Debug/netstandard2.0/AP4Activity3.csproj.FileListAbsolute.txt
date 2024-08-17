@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\AP4Activity3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\AP4Activity3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\AP4Activity3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\AP4Activity3.AssemblyInfo.cs
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\bin\Debug\netstandard2.0\AP4Activity3.deps.json
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\bin\Debug\netstandard2.0\AP4Activity3.dll
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\bin\Debug\netstandard2.0\ref\AP4Activity3.dll
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\bin\Debug\netstandard2.0\AP4Activity3.pdb
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\AP4Activity3.dll
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\ref\AP4Activity3.dll
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\AP4Activity3.pdb
+C:\Users\user\source\repos\AP4Activity3\AP4Activity3\AP4Activity3\obj\Debug\netstandard2.0\Result.xaml.g.cs

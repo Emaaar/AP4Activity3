@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AP4Activity3.MainPage">
+    <ScrollView>
+        <StackLayout>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+
+
+
+            <Entry x:Name="txtMeterNo" Placeholder="MeterNO - Update and Delete"></Entry>
+            <Entry x:Name="txtPresentReading" Placeholder="Enter Present Reading"></Entry>
+            <Entry x:Name="txtPreviousReading" Placeholder="Enter Previous Reading"></Entry>
+
+            <Label Text="Type Of Registration"/>
+            <Label Text="H"/>
+            <CheckBox x:Name="H"/>
+
+            <Label Text="B"/>
+            <CheckBox x:Name="B"/>
+
+
+            <!--<Entry x:Name="R" Placeholder="Enter Registration [B AND H]"></Entry>-->
+
+
+            <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+
+                <Button x:Name="btnAdd" WidthRequest="200" Text="Add" Clicked="btnAdd_Clicked" />
+                <Button x:Name="btnUpdate" WidthRequest="200" Text="Update" Clicked="btnUpdate_Clicked"/>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <!--<Button x:Name="btnSearch"  WidthRequest="200"  Text="Search" Clicked="btnSearch_Clicked"/>-->
+                <Button x:Name="btnDelete" WidthRequest="200" Text="Delete" Clicked="btnDelete_Clicked" />
+            </StackLayout>
+
+        </StackLayout>
+    </StackLayout>
+
+
+
+    </ScrollView>
+</ContentPage>
